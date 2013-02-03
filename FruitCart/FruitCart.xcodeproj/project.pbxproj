@@ -21,6 +21,7 @@
 		555E433C16B852FF00696EF1 /* Fruit.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433616B852FF00696EF1 /* Fruit.m */; };
 		555E433D16B852FF00696EF1 /* Apple.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433816B852FF00696EF1 /* Apple.m */; };
 		555E433E16B852FF00696EF1 /* GoldDelicious.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433B16B852FF00696EF1 /* GoldDelicious.m */; };
+		629497EF16BEDAE200AD9AF4 /* iOS Simulator Screen shot Feb 3, 2013 12.50.01 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 629497EE16BEDAE200AD9AF4 /* iOS Simulator Screen shot Feb 3, 2013 12.50.01 PM.png */; };
 		62EEAEF816BE190D003C12EC /* Vegetable.m in Sources */ = {isa = PBXBuildFile; fileRef = 62EEAEF716BE190D003C12EC /* Vegetable.m */; };
 		62EEAEF916BE1B83003C12EC /* Onion.m in Sources */ = {isa = PBXBuildFile; fileRef = 62EEAEED16BE186B003C12EC /* Onion.m */; };
 		62EEAEFA16BE1B87003C12EC /* Potato.m in Sources */ = {isa = PBXBuildFile; fileRef = 62EEAEF016BE1895003C12EC /* Potato.m */; };
@@ -50,6 +51,7 @@
 		555E433916B852FF00696EF1 /* Fruit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fruit.h; sourceTree = "<group>"; };
 		555E433A16B852FF00696EF1 /* GoldDelicious.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoldDelicious.h; sourceTree = "<group>"; };
 		555E433B16B852FF00696EF1 /* GoldDelicious.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoldDelicious.m; sourceTree = "<group>"; };
+		629497EE16BEDAE200AD9AF4 /* iOS Simulator Screen shot Feb 3, 2013 12.50.01 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOS Simulator Screen shot Feb 3, 2013 12.50.01 PM.png"; path = "../../../iOS Simulator Screen shot Feb 3, 2013 12.50.01 PM.png"; sourceTree = "<group>"; };
 		62EEAEEC16BE186B003C12EC /* Onion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Onion.h; sourceTree = "<group>"; };
 		62EEAEED16BE186B003C12EC /* Onion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Onion.m; sourceTree = "<group>"; };
 		62EEAEEF16BE1895003C12EC /* Potato.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Potato.h; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 		555E431916B84E1D00696EF1 /* FruitCart */ = {
 			isa = PBXGroup;
 			children = (
+				629497EE16BEDAE200AD9AF4 /* iOS Simulator Screen shot Feb 3, 2013 12.50.01 PM.png */,
 				62EEAEF516BE18C6003C12EC /* Vegetables */,
 				555E433F16B8530800696EF1 /* Fruits */,
 				555E432216B84E1E00696EF1 /* AppDelegate.h */,
@@ -214,6 +217,7 @@
 				555E432816B84E1E00696EF1 /* Default@2x.png in Resources */,
 				555E432A16B84E1E00696EF1 /* Default-568h@2x.png in Resources */,
 				555E433016B84E1E00696EF1 /* ViewController.xib in Resources */,
+				629497EF16BEDAE200AD9AF4 /* iOS Simulator Screen shot Feb 3, 2013 12.50.01 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
